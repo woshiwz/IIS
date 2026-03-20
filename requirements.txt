@@ -7,4 +7,4 @@ xgboost
 scipy
 ipython
 seaborn
-altair
+altair<5.0.0
